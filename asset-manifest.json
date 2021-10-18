@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://noskhil.github.io/csb-hdid1/static/css/main.61026ef5.chunk.css",
+    "main.js": "https://noskhil.github.io/csb-hdid1/static/js/main.784d5221.chunk.js",
+    "main.js.map": "https://noskhil.github.io/csb-hdid1/static/js/main.784d5221.chunk.js.map",
+    "runtime-main.js": "https://noskhil.github.io/csb-hdid1/static/js/runtime-main.5d7f481b.js",
+    "runtime-main.js.map": "https://noskhil.github.io/csb-hdid1/static/js/runtime-main.5d7f481b.js.map",
+    "static/js/2.cc0866fb.chunk.js": "https://noskhil.github.io/csb-hdid1/static/js/2.cc0866fb.chunk.js",
+    "static/js/2.cc0866fb.chunk.js.map": "https://noskhil.github.io/csb-hdid1/static/js/2.cc0866fb.chunk.js.map",
+    "index.html": "https://noskhil.github.io/csb-hdid1/index.html",
+    "static/css/main.61026ef5.chunk.css.map": "https://noskhil.github.io/csb-hdid1/static/css/main.61026ef5.chunk.css.map",
+    "static/js/2.cc0866fb.chunk.js.LICENSE.txt": "https://noskhil.github.io/csb-hdid1/static/js/2.cc0866fb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d7f481b.js",
+    "static/js/2.cc0866fb.chunk.js",
+    "static/css/main.61026ef5.chunk.css",
+    "static/js/main.784d5221.chunk.js"
+  ]
+}
